@@ -1,3 +1,3 @@
 # Red String (Capstone-Project)
 Containerized OpenCTI‑MISP‑AI Threat Intelligence 
-
+Red String is a secure, containerized Cyber Threat Intelligence (CTI) platform designed to collect, organize, correlate, and prioritize threat data from multiple sources. The platform uses OpenCTI and AI-assisted relationship mapping to connect threat actors, campaigns, vulnerabilities, technologies, aviation assets, and security controls. It follows a Human-in-the-Loop (HITL) approach, where analysts review and validate AI-generated findings before taking action. The system uses Docker/Kubernetes, RBAC, Okta authentication, encryption, and trust zones to provide secure and scalable deployment. Red String can also integrate with SIEM, SOAR, and ticketing systems to turn threat intelligence into actionable security information.
